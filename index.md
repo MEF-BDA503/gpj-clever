@@ -1,6 +1,6 @@
 # cleveR - Instacart Order Analysis 
 #### Project Proposal
-+ Our project proposal for Instacart order analysis is [ready](proposal.html).
++ Our project proposal for Instacart order analysis is [ready](Proposal.html).
 
 # Data Analysis of OSYM 2017 Result
 
