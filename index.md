@@ -6,4 +6,4 @@
 
 
 + [Here](OSYM_DATA.html) you can find important facts about OSYM 2017
-+ [Here](osym2017.html) you can find our secondary analysis of OSYM 2017 results and MEF University eveluation.
++ [Here](osym2017.html) you can find our analysis on OSYM 2017 results and MEF University eveluation.
