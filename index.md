@@ -1,4 +1,7 @@
 # cleveR - Instacart Order Analysis 
+#### Minimal Working Report
++ Our project Minimal Working Report is [ready](minimal_working_report.html).
+
 #### Project Proposal
 + Our project proposal for Instacart order analysis is [ready](Proposal.html).
 
