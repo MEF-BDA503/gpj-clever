@@ -2,6 +2,7 @@
 #### Project Report
 + The project Report [html](BDA503 Project.html).
 + The project Report [pdf](BDA503 Project.pdf).
++ Project Presentation [ppt](final_presentation.pptx).
 
 #### Minimal Working Report
 + Our project Minimal Working Report is [ready](minimal_working_report.html).
